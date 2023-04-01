@@ -1,8 +1,7 @@
 .body {
   font-family: "Raleway", sans-serif;
-   font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
-
 
 .list {
   list-style: none;
@@ -45,7 +44,6 @@
   color: #404bbf;
 }
 
-
 .header-adaress {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -57,10 +55,9 @@
 }
 
 .header-adaress:hover,
-.header-adaress:focus{
-  color: #404BBF;
+.header-adaress:focus {
+  color: #404bbf;
 }
-
 
 /* hero */
 .hero-section {
@@ -167,6 +164,10 @@
 }
 
 /* footer sectio */
+.footer-section {
+  background-color: #2e2f42;
+}
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -182,10 +183,6 @@
 
 .studio-footer-color {
   color: #f4f4fd;
-}
-
-.footer-section {
-  background-color: #2e2f42;
 }
 
 .footer-indent {
